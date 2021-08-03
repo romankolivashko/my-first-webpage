@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+  font-family: Geneva, Verdana;
+}
+
+h2 {
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma;
+  line-height: 200%;
+  
+  /* 
+  font-family
+   */
+}
+
+h3 {
+  font-family: Geneva, Verdana, sans-serif;
+}
+
+p {
+  text-align: center;
+  font-size: 1em;
+  line-height: 400%;
+}
+
