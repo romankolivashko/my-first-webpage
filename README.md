@@ -16,6 +16,18 @@ _First page will include basic HTML styled with CSS. Git is used to save code to
 
 ## Setup/Installation Requirements
 
-* _Feel free to clone and use it at no charge
+* _Feel free to clone and use it at no charge_
 
-_Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste dolor doloribus blanditiis molestiae ipsam earum accusantium recusandae debitis, fuga inventore nemo quisquam asperiores libero quam eius. Voluptate ad modi ullam?
+_Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste dolor doloribus blanditiis molestiae ipsam earum accusantium recusandae debitis, fuga inventore nemo quisquam asperiores libero quam eius. Voluptate ad modi ullam?_
+
+## Known Bugs
+
+* _Feel free to report_
+
+## License
+
+### MIT
+
+## Contact Information
+
+_rkolivashko@gmail.com_
